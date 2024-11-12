@@ -26,6 +26,8 @@ class MainActivity : ComponentActivity() {
                     )
                 }
             }
+
+            Text(text = "영희 안녕?")
         }
     }
 }
